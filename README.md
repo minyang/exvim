@@ -1,3 +1,6 @@
+(9/11/2022) On Mac, install these packages:
+$ brew install ctags cscope gawk idutils graphviz ag   # ag is important!
+
 ![exVim Logo](http://exvim.github.io/images/logo.png)
 
 [Documentation](http://exvim.github.io/docs/) |
